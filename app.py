@@ -17,7 +17,6 @@ LANGUAGES = {
     'nl': 'Dutch',
     'en': 'English',
     'et': 'Estonian',
-    'fi': 'Finnish',
     'fr': 'French',
     'de': 'German',
     'el': 'Greek',

@@ -59,7 +59,8 @@ LANGUAGES = {
     'vi': 'Vietnamese',
     'cy': 'Welsh',
     'xh': 'Xhosa',
-    'zu': 'Zulu'
+    'zu': 'Zulu',
+    'yo': 'Yoruba'
 }
 
 st.title('Language Detection App')
